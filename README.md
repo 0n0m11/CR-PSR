@@ -524,24 +524,12 @@ This project focuses on multi-scale pathology image understanding and weakly sup
 
 ---
 
-## 18. Citation
-
-If this project is helpful, please cite:
-
-```bibtex
-@article{your_project_2026,
-  title   = {Multi-scale Pathology Visual Question Answering with Cross-resolution Visual Representation Learning},
-  author  = {Your Name and Collaborators},
-  journal = {To appear},
-  year    = {2026}
-}
-```
 
 Please replace the citation with the final paper information after publication.
 
 ---
 
-## 19. License
+## 18. License
 
 This project is released for academic research purposes. Please check the license file before commercial use.
 
@@ -555,7 +543,7 @@ CC BY-NC 4.0 for non-commercial research
 
 ---
 
-## 20. Contact
+## 19. Contact
 
 For questions or suggestions, please open an issue or contact the project maintainer.
 
